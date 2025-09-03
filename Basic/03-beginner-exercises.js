@@ -5,6 +5,8 @@
 Me encanta este curso de JavaScript para principiantes,
 tengo que realizar unos ejercicios para practicar yo solo.
 Desde comienzo del video, hasta 1:22:20, en youtube.
+¿Donde me puedo ayudar en hacer estos ejercicios? 
+Desde 01-variables.js y datatypes.js.
 */
 // 3. Declara variables con valores asociados a todos los datos de tipo primitivos
 
