@@ -8,8 +8,6 @@ var comida = 2800 + 1300;
 var bebidas = 900 + 650;
 var cena = comida + bebidas;
 
-console.log("El total de comida es: ", comida);
-console.log("El total de la bebida es: ", bebidas);
-console.log("El total de la cena: ", comida + bebidas);
-
-alert("El total de toda la cena es: " + cena);
+console.log("El total de comida es: " + comida);
+console.log("El total de la bebida es: " + bebidas);
+console.log("El total de la cena: " + cena);
